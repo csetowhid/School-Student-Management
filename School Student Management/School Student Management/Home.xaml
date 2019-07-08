@@ -1,0 +1,17 @@
+﻿<Window x:Class="School_Student_Management.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:School_Student_Management"
+        mc:Ignorable="d"
+        Title="Home" Height="600" Width="1000" Background="#FFC592A5">
+    <Grid>
+        <Button Content="Log Out" HorizontalAlignment="Left" Margin="334,412,0,0" VerticalAlignment="Top" Width="302" Height="56" FontWeight="Bold" FontSize="36" Click="btn_logout" Foreground="#FFEE1E1E" RenderTransformOrigin="0.866,0.865"/>
+        <Button Content="Admission" HorizontalAlignment="Left" Margin="334,93,0,0" VerticalAlignment="Top" Width="302" Height="52" FontWeight="Bold" FontSize="36" Click="btn_admission" Foreground="#FFEE1E1E" RenderTransformOrigin="0.866,0.865"/>
+        <Button Content="Update" HorizontalAlignment="Left" Margin="334,167,0,0" VerticalAlignment="Top" Width="302" Height="52" FontWeight="Bold" FontSize="36" Click="btn_update" Foreground="#FFEE1E1E" RenderTransformOrigin="0.866,0.865"/>
+        <Button Content="Search" HorizontalAlignment="Left" Margin="334,259,0,0" VerticalAlignment="Top" Width="302" Height="52" FontWeight="Bold" FontSize="36" Click="btn_search" Foreground="#FFEE1E1E" RenderTransformOrigin="0.866,0.865"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="334,334,0,0" VerticalAlignment="Top" Width="302" Height="52" FontWeight="Bold" FontSize="36" Click="btn_delete" Foreground="#FFEE1E1E" RenderTransformOrigin="0.866,0.865"/>
+
+    </Grid>
+</Window>

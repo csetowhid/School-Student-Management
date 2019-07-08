@@ -1,0 +1,25 @@
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\bin\Debug\School Student Management.exe.config
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\bin\Debug\School Student Management.exe
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\bin\Debug\School Student Management.pdb
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\School Student Management.csprojAssemblyReference.cache
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\App.g.cs
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\School Student Management_MarkupCompile.cache
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\School Student Management_MarkupCompile.lref
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\School Student Management.g.resources
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\School_Student_Management.Properties.Resources.resources
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\School Student Management.csproj.GenerateResource.cache
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\School Student Management.csproj.CoreCompileInputs.cache
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\School Student Management.exe
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\School Student Management.pdb
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\MainWindow.g.cs
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\MainWindow.baml
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\Home.g.cs
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\Home.baml
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\admission.g.cs
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\admission.baml
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\update.g.cs
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\update.baml
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\delete.g.cs
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\delete.baml
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\Student Details.g.cs
+F:\Fall-18\Project Inzamam Sir\School Student Management\School Student Management\obj\Debug\Student Details.baml
